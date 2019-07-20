@@ -1,0 +1,10 @@
+Package: DistributionOfVariables
+Type: Package
+Title: This package includes function to create plots for the given data and stores the plots in specified directory
+Version: 0.1.0
+Author: Aishwarya Aljapur
+Maintainer: Aishwarya Aljapur <aishwaryaaljapur.1@gmail.com>
+Description: This package includes functions which creates boxplots&Histograms for numerical data and piecharts&barplots for categorical data and saves the plots in specified location
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
